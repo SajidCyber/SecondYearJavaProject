@@ -3,7 +3,7 @@
 
 ## Project Overview
 This is a **Java-based Community Skill & Resource Exchange Platform** that allows users to offer or request skills and resources.  
-The system supports **multi-language interaction, user management, matching logic, and database storage** in future phases.  
+The system supports **user management, matching logic, and database storage** in future phases.  
 It is designed to be **scalable**, moving from a simple console program to a full-fledged **JavaFX GUI with MySQL backend**.
 
 ---
